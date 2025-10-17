@@ -16,5 +16,5 @@
 ---
 
 ### 📈 Estadísticas de GitHub
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=joel-github&show_icons=true&theme=radical)
-![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-github&layout=compact&theme=radical)
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=joelblanc14&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=joelblanc14&layout=compact&theme=radical)
