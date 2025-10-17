@@ -32,7 +32,7 @@
 ### 📈 GitHub Stats
 ![Joel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelblanc14&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelblanc14&layout=compact&theme=radical)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelblanc14&theme=tokyonight))
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=joelblanc14&theme=tokyonight)
 
 ---
 
