@@ -12,3 +12,9 @@
 ![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+---
+
+### 📈 Estadísticas de GitHub
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=joel-github&show_icons=true&theme=radical)
+![Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=joel-github&layout=compact&theme=radical)
